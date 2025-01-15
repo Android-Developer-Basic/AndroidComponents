@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Listener</string>
+    <string name="lbl_song_title">Song title:</string>
+    <string name="btn_get_song_title">Get song title</string>
+    <string name="btn_start_service">Start service</string>
+    <string name="btn_stop_service">Stop Service</string>
+</resources>
